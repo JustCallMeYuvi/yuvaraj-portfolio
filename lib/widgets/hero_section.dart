@@ -199,7 +199,7 @@ class HeroSection extends StatelessWidget {
         // ),
         child: ClipOval(
           child: Image.asset(
-            'assets/images/yuvi.JPEG',
+            'assets/images/yuvi.jpeg',
             fit: BoxFit.cover,
             width: 280,
             height: 280,
