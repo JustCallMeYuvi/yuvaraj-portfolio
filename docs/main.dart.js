@@ -69071,7 +69071,7 @@ return A.cp(r,A.eL(new A.dy(B.cK,q?A.dx(A.a([s.GX(),B.j6,s.EI(a)],n),B.a3,B.W,B.
 EI(a){var s=null,r=A.Z(a).p2.f,q=t.p
 return A.dx(A.a([A.b3("Hi, I'm",s,s,r==null?s:r.dv(B.y),s),B.dK,B.QR,B.dK,new A.G3(new A.Uk(),B.QV,s),B.fq,B.QW,B.j6,A.Hd(A.a([this.yw("3+","Years"),this.yw("8+","Projects"),this.yw("Android","& iOS")],q),12,12),B.L1,A.Hd(A.a([A.ao9(B.Ck,B.wI,new A.Ul()),A.apI(B.lj,B.QN,new A.Um())],q),15,15)],q),B.a9,B.W,B.M)},
 GX(){var s=null,r=A.lh(B.GV,4),q=A.a([new A.dL(10,B.fM,A.a1(B.c.aI(76.5),33,150,243),B.h,40)],t.sq)
-return A.eL(A.cp(s,new A.AV(new A.tF(A.aqF(s,s,new A.rg("images/yuvi.jpeg",s,s)),280,280,B.xP,s),s),B.p,s,s,new A.cc(s,s,r,s,q,s,B.e1),s,280,s,s,s,s,280),s,s)},
+return A.eL(A.cp(s,new A.AV(new A.tF(A.aqF(s,s,new A.rg("assets/images/yuvi.JPEG",s,s)),280,280,B.xP,s),s),B.p,s,s,new A.cc(s,s,r,s,q,s,B.e1),s,280,s,s,s,s,280),s,s)},
 yw(a,b){var s=null,r=A.a1(13,255,255,255),q=A.di(12),p=A.lh(B.kL,1)
 return A.cp(s,A.dx(A.a([A.b3(a,s,s,B.OU,s),A.b3(b,s,s,B.Q2,s)],t.p),B.a3,B.W,B.M),B.p,s,s,new A.cc(r,s,p,q,s,s,B.a6),s,s,s,B.Bw,s,s,s)}}
 A.Uk.prototype={

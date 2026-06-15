@@ -189,9 +189,17 @@ class HeroSection extends StatelessWidget {
         //     color: Colors.white,
         //   ),
         // ),
+        // child: ClipOval(
+        //   child: Image.asset(
+        //     'images/yuvi.jpeg',
+        //     fit: BoxFit.cover,
+        //     width: 280,
+        //     height: 280,
+        //   ),
+        // ),
         child: ClipOval(
           child: Image.asset(
-            'images/yuvi.jpeg',
+            'assets/images/yuvi.JPEG',
             fit: BoxFit.cover,
             width: 280,
             height: 280,
